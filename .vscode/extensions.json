@@ -1,0 +1,14 @@
+{
+    "recommendations": [
+        // ! Delete the unnecessary extensions
+        // Global
+        "aaron-bond.better-comments",
+        "EditorConfig.EditorConfig",
+        "esbenp.prettier-vscode",
+        "Gruntfuggly.todo-tree",
+        "shardulm94.trailing-spaces",
+        // Rust
+        "tamasfe.even-better-toml",
+        "rust-lang.rust-analyzer"
+    ]
+}
