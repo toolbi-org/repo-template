@@ -1,0 +1,8 @@
+# File Extensions
+*.env
+
+# Folders
+/logs
+/target
+
+# Files

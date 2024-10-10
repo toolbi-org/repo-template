@@ -1,0 +1,9 @@
+# File Extensions
+*.env
+
+# Folders
+/build
+/logs
+/node_modules
+
+# Files
