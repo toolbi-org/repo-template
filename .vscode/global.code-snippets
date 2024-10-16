@@ -1,9 +1,9 @@
 {
-    "header": {
-        "prefix": ["header", "copyright"],
-        "body": [
-            "// Copyright (c) Toolbi. All rights reserved.",
-            "// See the LICENSE file in the project root for details."
-        ]
-    }
+  "header": {
+    "prefix": ["header", "copyright"],
+    "body": [
+      "// Copyright (c) Toolbi. All rights reserved.",
+      "// See the LICENSE file in the project root for details."
+    ]
+  }
 }

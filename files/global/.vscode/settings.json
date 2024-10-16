@@ -1,53 +1,53 @@
 {
-    // Editor
-    "editor.codeActionsOnSave": {
-        "source.organizeImports": "explicit"
+  // Editor
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": "explicit"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  // File Specifics
+  "[rust]": {
+    "editor.defaultFormatter": "rust-lang.rust-analyzer"
+  },
+  "[toml]": {
+    "editor.defaultFormatter": "tamasfe.even-better-toml"
+  },
+  // File Associations
+  "files.associations": {
+    "*.json5": "jsonc"
+  },
+  //
+  //
+  "better-comments.highlightPlainText": true,
+  "better-comments.tags": [
+    {
+      "tag": "!",
+      "color": "#ff0000",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": true,
+      "italic": false
     },
-    "editor.defaultFormatter": "esbenp.prettier-vscode",
-    "editor.formatOnSave": true,
-    // File Specifics
-    "[rust]": {
-        "editor.defaultFormatter": "rust-lang.rust-analyzer"
+    {
+      "tag": "?",
+      "color": "#0099ff",
+      "strikethrough": false,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
     },
-    "[toml]": {
-        "editor.defaultFormatter": "tamasfe.even-better-toml"
-    },
-    // File Associations
-    "files.associations": {
-        "*.json5": "jsonc"
-    },
-    //
-    //
-    "better-comments.highlightPlainText": true,
-    "better-comments.tags": [
-        {
-            "tag": "!",
-            "color": "#ff0000",
-            "strikethrough": false,
-            "underline": false,
-            "backgroundColor": "transparent",
-            "bold": true,
-            "italic": false
-        },
-        {
-            "tag": "?",
-            "color": "#0099ff",
-            "strikethrough": false,
-            "underline": false,
-            "backgroundColor": "transparent",
-            "bold": false,
-            "italic": false
-        },
-        {
-            "tag": "//",
-            "color": "#8a8a8a",
-            "strikethrough": true,
-            "underline": false,
-            "backgroundColor": "transparent",
-            "bold": false,
-            "italic": false
-        }
-    ],
-    //
-    "rust-analyzer.cargo.features": "all"
+    {
+      "tag": "//",
+      "color": "#8a8a8a",
+      "strikethrough": true,
+      "underline": false,
+      "backgroundColor": "transparent",
+      "bold": false,
+      "italic": false
+    }
+  ],
+  //
+  "rust-analyzer.cargo.features": "all"
 }
