@@ -9,7 +9,7 @@
 ## Contributing
 
 Learn how to contribute
-[here](https://github.com/toolbi-org/%%%REPO_CONTRIBUTING_FILE_URL%%%).
+[here](https://github.com/toolbi-org/%%%REPO_NAME%%%/blob/main/CONTRIBUTING.md).
 
 ## License
 
@@ -18,40 +18,40 @@ Learn how to contribute
 <!-- CC0-1.0 -->
 
 This project is licensed under the
-[CC0-1.0](https://github.com/toolbi-org/repo-template/blob/main/LICENSE)
+[CC0-1.0](https://github.com/toolbi-org/%%%REPO_NAME%%%/blob/main/LICENSE)
 license. Click
-[here](https://github.com/toolbi-org/repo-template/blob/main/LICENSE) for more
+[here](https://github.com/toolbi-org/%%%REPO_NAME%%%/blob/main/LICENSE) for more
 information.
 
 <!-- GPL-2.0 -->
 
 This project is licensed under the
-[GPL-2.0](https://github.com/toolbi-org/repo-template/blob/main/LICENSE)
+[GPL-2.0](https://github.com/toolbi-org/%%%REPO_NAME%%%/blob/main/LICENSE)
 license. Click
-[here](https://github.com/toolbi-org/repo-template/blob/main/LICENSE) for more
+[here](https://github.com/toolbi-org/%%%REPO_NAME%%%/blob/main/LICENSE) for more
 information.
 
 <!-- GPL-3.0 -->
 
 This project is licensed under the
-[GPL-3.0](https://github.com/toolbi-org/repo-template/blob/main/LICENSE)
+[GPL-3.0](https://github.com/toolbi-org/%%%REPO_NAME%%%/blob/main/LICENSE)
 license. Click
-[here](https://github.com/toolbi-org/repo-template/blob/main/LICENSE) for more
+[here](https://github.com/toolbi-org/%%%REPO_NAME%%%/blob/main/LICENSE) for more
 information.
 
 <!-- MIT -->
 
 This project is licensed under the
-[MIT](https://github.com/toolbi-org/repo-template/blob/main/LICENSE) license.
-Click [here](https://github.com/toolbi-org/repo-template/blob/main/LICENSE) for
-more information.
+[MIT](https://github.com/toolbi-org/%%%REPO_NAME%%%/blob/main/LICENSE) license.
+Click [here](https://github.com/toolbi-org/%%%REPO_NAME%%%/blob/main/LICENSE)
+for more information.
 
 <!-- Unlicense -->
 
 This project is licensed under the
-[Unlicense](https://github.com/toolbi-org/repo-template/blob/main/LICENSE)
+[Unlicense](https://github.com/toolbi-org/%%%REPO_NAME%%%/blob/main/LICENSE)
 license. Click
-[here](https://github.com/toolbi-org/repo-template/blob/main/LICENSE) for more
+[here](https://github.com/toolbi-org/%%%REPO_NAME%%%/blob/main/LICENSE) for more
 information.
 
 <!-- No license -->
