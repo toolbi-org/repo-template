@@ -1,5 +1,6 @@
 {
   "recommendations": [
+    // Global
     "aaron-bond.better-comments",
     "EditorConfig.EditorConfig",
     "esbenp.prettier-vscode",
