@@ -1,5 +1,7 @@
 {
+  //
   // Editor
+  //
   "editor.codeActionsOnSave": {
     "source.organizeImports": "explicit"
   },
@@ -17,6 +19,7 @@
     "*.json5": "jsonc"
   },
   //
+  // Extensions
   //
   "better-comments.highlightPlainText": true,
   "better-comments.tags": [
